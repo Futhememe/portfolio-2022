@@ -11,6 +11,9 @@ export const colors = {
   },
   black: {
     100: '#202020'
+  },
+  green: {
+    100: '#65BF73'
   }
 }
 
